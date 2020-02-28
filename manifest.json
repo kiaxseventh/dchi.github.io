@@ -2,7 +2,7 @@
     "name": "dchi_flutter",
     "short_name": "dchi_flutter",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
