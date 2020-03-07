@@ -1,12 +1,12 @@
 {
-    "name": "dchi_flutter",
-    "short_name": "dchi_flutter",
+    "name": "دِچی",
+    "short_name": "دِچی",
     "start_url": ".",
     "display": "fullscreen",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#512da8",
+    "theme_color": "#673ab7",
+    "description": "خدمات آنلاین کلان شهر رشت",
+    "orientation": "portrait",
     "prefer_related_applications": false,
     "icons": [
         {
